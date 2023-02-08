@@ -1,4 +1,4 @@
-### Opa eu sou Rogério Fernandes, estudante de programação e tecnologia e futuro analista de dados!
+### Opa eu sou Rogério Fernandes, estudante de programação e tecnologia e futuro analista de dados! ♙♚
 
  
 </div>
