@@ -1,5 +1,6 @@
-### Opa eu sou Rogério Fernandes, estudante de programação e tecnologia e futuro analista de dados! ♙♚
+### Opa eu sou Rogério Fernandes, sou formado em engenharia mecânica e estou fazendo migração para área de TI. ♙♚
 
+Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou estudando linguagem C para concluir o primeiro período de TADS no IFPE.
  
 </div>
   
