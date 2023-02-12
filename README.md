@@ -13,7 +13,7 @@ Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou e
   
 </div>
 
- <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioTiuma&layout=compact)](https://github.com/RogerioTiuma/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioTiuma&layout=compact)](https://github.com/RogerioTiuma/github-readme-stats)
 
 ## Tecnologias que tenho conhecimentos
 
