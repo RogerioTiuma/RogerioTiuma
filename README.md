@@ -30,3 +30,7 @@ Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou e
   <div>
  
  ![snake gif](https://github.com/RogerioTiuma/RogerioTiuma/blob/output/github-contribution-grid-snake.svg)
+
+   </br> 
+ 
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RogerioTiuma/count.svg" /></p>
