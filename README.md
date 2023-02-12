@@ -5,7 +5,7 @@ Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou e
 </div>
   
   ##
-  <p align="center"> ![RogerioTiuma GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioTiuma&show_icons=true&theme=dracula)
+  ![RogerioTiuma GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioTiuma&show_icons=true&theme=dracula)
  
 <div> 
  	  <a href = "mailto:rogerio.tiuma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
