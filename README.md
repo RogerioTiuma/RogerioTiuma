@@ -23,11 +23,7 @@ Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou e
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   
-  
-  <div>
  
- ![snake gif](https://github.com/RogerioTiuma/RogerioTiuma/blob/output/github-contribution-grid-snake.svg)
-
    </br> 
  
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RogerioTiuma/count.svg" /></p>
