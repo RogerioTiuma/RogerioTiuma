@@ -1,8 +1,7 @@
 ### Opa! Eu sou Rogério Fernandes, sou formado em engenharia mecânica e estou fazendo migração para área de data analytics. ♙♚
 
-Atualmente estou fazendo o bootcamp do Banco Inter pela DIO sobre Java e estou iniciando o 2º período de análise e desenvolvimento de sistemas no IFPE.
+Atualmente iniciei o curso Pós-graduação Lato Sensu no Cesar - Especialização em Engenharia e Análise de Dados
 
-Estudante CNPQ no Projeto Ressociadigi.
 
 Tenho experiência com consolidação, construção e controle de painéis de indicadores industriais.
 
