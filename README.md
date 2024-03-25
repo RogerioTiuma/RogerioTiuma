@@ -1,9 +1,9 @@
-### Opa! Eu sou Rogério Fernandes, sou formado em engenharia mecânica e estou fazendo migração para área de data analytics. ♙♚
+### Opa, camarada! Tudo certo? Eu sou Rogério, sou formado em engenharia mecânica na UFPE e estou tentando juntar essa formação com engenharia de dados e IA. ♙♚
 
 Atualmente iniciei o curso Pós-graduação Lato Sensu no Cesar - Especialização em Engenharia e Análise de Dados
+Tenho experiência com consolidação, construção e controle de painéis de indicadores industriais. Simulações mecânicas e modelagem 3d usando softwares como Ansys, Comsol Multphisics, Solidworks e Inventor.
 
-
-Tenho experiência com consolidação, construção e controle de painéis de indicadores industriais.
+Venho desenvolvendo habilidades com python, linguagem C, Streamlit, ferramentas de visualização de dados (matplotlib, seaborn...)
 
 Curto muito jogar xadrez, andar de moto e viajar. Já li vários livros, mas ultimamente não tenho tido muito tempo. 
 
@@ -25,11 +25,6 @@ Curto muito jogar xadrez, andar de moto e viajar. Já li vários livros, mas ult
 ## Tecnologias que tenho conhecimentos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  
  
    </br> 
  
